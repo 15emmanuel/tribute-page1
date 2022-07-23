@@ -45,6 +45,12 @@ img{
       #img-caption{
           font-size: 1.4rem;
       }
+      img{
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+}
   }
   
 #headline {
